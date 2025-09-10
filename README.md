@@ -20,12 +20,9 @@ https://github.com/user-attachments/assets/55a85113-8bcf-4fbd-bbcc-e022bfd6da3a
 <h3 align="center"> 📌 Bill of Materials </h3>
 
 markdown
+[Drill 3.4.pdf](https://github.com/user-attachments/files/22259274/Drill.3.4.pdf)
 
-| Name of Item    | Quantity         | Price                |
-|-----------------|------------------|----------------------|
-|                 |                  |                      |
-|                 |                  |                      |
-|                 |                  |                      |
+
 
 
 
