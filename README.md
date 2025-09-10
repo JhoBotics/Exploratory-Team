@@ -10,11 +10,11 @@ It includes documentation, code, datasets, and results related to the research.
     https://drive.google.com/file/d/15m6ON3WT_Akj_oh2s_QPzo5sIEKrFpzM/view?usp=sharing
 
 # Version 3.4
-    Assembly
-    https://drive.google.com/file/d/1_SH5dKQH67CWJ2DtiKaIJzTnKtQdajO3/view?usp=sharing
+<h3 align="center"> ⚙️Assembly </h3>
+https://drive.google.com/file/d/1_SH5dKQH67CWJ2DtiKaIJzTnKtQdajO3/view?usp=sharing
 
-    Animation
-    https://github.com/user-attachments/assets/55a85113-8bcf-4fbd-bbcc-e022bfd6da3a
+<h3 align="center"> ⚙️Animation </h3>
+https://github.com/user-attachments/assets/55a85113-8bcf-4fbd-bbcc-e022bfd6da3a
 
 
 ## 📂 Repository Structure
