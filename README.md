@@ -17,6 +17,18 @@ https://drive.google.com/file/d/1_SH5dKQH67CWJ2DtiKaIJzTnKtQdajO3/view?usp=shari
 https://github.com/user-attachments/assets/55a85113-8bcf-4fbd-bbcc-e022bfd6da3a
 
 
+<h3 align="center"> 📌 Bill of Materials </h3>
+| Name of Item    | Quantity         | Price                |
+|-----------------|------------------|----------------------|
+|                 |                  |                      |
+|                 |                  |                      |
+|                 |                  |                      |
+
+
+
+
+
+
 ## 📂 Repository Structure
 - `docs/` → Thesis documents, chapters, references.
 - `src/` → Source code and scripts.
