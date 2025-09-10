@@ -18,6 +18,9 @@ https://github.com/user-attachments/assets/55a85113-8bcf-4fbd-bbcc-e022bfd6da3a
 
 
 <h3 align="center"> 📌 Bill of Materials </h3>
+
+markdown
+
 | Name of Item    | Quantity         | Price                |
 |-----------------|------------------|----------------------|
 |                 |                  |                      |
