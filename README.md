@@ -1,6 +1,6 @@
-<p align="center">─────────────────────────────</p>
+<p align="center">-----------------------─────────────────────────────--------------------------</p>
 <h3 align="center">EXPLORATORY TEAM</h3>
-<p align="center">─────────────────────────────</p>
+<p align="center">-----------------------─────────────────────────────--------------------------</p>
 
 # Drill Version 3 
     https://drive.google.com/file/d/15m6ON3WT_Akj_oh2s_QPzo5sIEKrFpzM/view?usp=sharing
