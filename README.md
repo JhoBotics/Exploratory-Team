@@ -29,18 +29,27 @@ https://github.com/user-attachments/assets/55a85113-8bcf-4fbd-bbcc-e022bfd6da3a
 [Drill 3.4.pdf](https://github.com/user-attachments/files/22259274/Drill.3.4.pdf)
 
 
-
-
-
-
-
-
 ## 📂 Repository Structure
 - `docs/` → Thesis documents, chapters, references.
 - `src/` → Source code and scripts.
 - `data/` → Raw and processed datasets.
 - `results/` → Experiment outputs, figures, and tables.
 - `presentations/` → Slides for defenses and progress reports.
+
+# Weekly Update Starting September 2025
+9/12/2025 - Consultation with sir JK and sir Ariel, Printing of V3_Base
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## 📖 Citation
 
