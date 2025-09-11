@@ -8,6 +8,10 @@ It includes documentation, code, datasets, and results related to the research.
     
 # Drill Version 3 
     https://drive.google.com/file/d/15m6ON3WT_Akj_oh2s_QPzo5sIEKrFpzM/view?usp=sharing
+markdown
+Step File
+https://drive.google.com/file/d/18NIY5WInOdCsBnHZM34i5FdrN1lP4Xsq/view?usp=sharing
+
 
 # Version 3.4
 <h3 align="center"> ⚙️Assembly </h3>
@@ -20,6 +24,7 @@ https://github.com/user-attachments/assets/55a85113-8bcf-4fbd-bbcc-e022bfd6da3a
 <h3 align="center"> 📌 Bill of Materials </h3>
 
 markdown
+9/9/2025
 [Drill 3.4.pdf](https://github.com/user-attachments/files/22259274/Drill.3.4.pdf)
 
 
